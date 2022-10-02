@@ -34,23 +34,6 @@ export default function Footer() {
               services, and others. We are offering every single service that
               will take your business to the next level.
             </div>
-
-            <div className="mt-5">
-              <a
-                href="https://vercel.com/?utm_source=web3templates&utm_campaign=oss"
-                target="_blank"
-                rel="noopener"
-                className="relative block w-44"
-              >
-                <Image
-                  src="/img/vercel.svg"
-                  layout="responsive"
-                  alt="Powered by Vercel"
-                  width="212"
-                  height="44"
-                />
-              </a>
-            </div>
           </div>
 
           <div>
@@ -112,13 +95,9 @@ export default function Footer() {
 
         <div className="my-10 text-sm text-center text-gray-600 dark:text-gray-400">
           Copyright © {new Date().getFullYear()}. Made with ♥ by{" "}
-          <a href="https://web3templates.com/" target="_blank" rel="noopener">
-            Web3Templates.
+          <a href="https://geekyprince.com/" target="_blank" rel="noopener">
+            Geeky Prince Pvt. Ltd.
           </a>{" "}
-          Illustrations from{" "}
-          <a href="https://www.glazestock.com/" target="_blank" rel="noopener ">
-            Glazestock
-          </a>
         </div>
       </Container>
     </div>
