@@ -34,23 +34,23 @@ const benefitOne = {
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "Services we are offering at Geeky Prince",
+  desc: "Here wr are offering you a lot of  services listed below.",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
+      title: "Website design and development",
+      desc: "We have highly professional & experienced designers that will help you in creating the perfect design for your business website.",
       icon: <DeviceMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "App development",
+      desc: "If you need a professional app for your business, then you must also contact us because we offer the best App Design & Development services.",
       icon: <AdjustmentsIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
+      title: "Business Consulting",
+      desc: "We have highly certified & experienced designers that will be able to create the objectives of business & comprehend your vision in order to create fantastic designs. ",
       icon: <SunIcon />,
     },
   ],
