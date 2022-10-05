@@ -7,9 +7,9 @@ export default function Navbar() {
     "Projects",
     "Services",
     "Technologies",
-    "About Us",
+    "About",
     "Blog",
-    "Contact Us",
+    "Contact",
   ];
 
   return (
