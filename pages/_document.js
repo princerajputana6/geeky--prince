@@ -10,6 +10,10 @@ class MyDocument extends Document {
             rel="stylesheet"
           />
           <meta
+            name="google-site-verification"
+            content="Nm_mqvng6Nnb3igGO8s_xcvF7LLom65HEyUbVQzrdd8"
+          />
+          <meta
             name="description"
             content="Geeky Prince Pvt Ltd. is a software developmentand business building platform where you can get your customized solutions for your business."
           />
